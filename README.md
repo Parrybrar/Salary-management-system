@@ -39,6 +39,4 @@ This project is a *Salary Management System (SMS)*, which helps to manage employ
 - *MySQL Database*
 - *SQL for querying and managing data*
 
-### License:
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
